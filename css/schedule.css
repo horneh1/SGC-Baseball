@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(to right, darkblue, orange);
+}
+
+.header {
+  font-size: 100px;
+  color: darkslategrey;
+}
+
+a:active {
+  color: orange;
+}
+
+/* visited links */
+a:visited {
+  color: black;
+}
+
+.Schedule {
+  height: 300px;
+  width: 300px;
+  transform: rotate(90deg);
+}

@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(to right, blue, orange);
+}
+
+.header {
+  font-size: 100px;
+  color: darkslategrey;
+}
+
+.content {
+  font-size: 20px;
+}
+
+/* active links */
+a:active {
+  color: orange;
+}
+
+/* visited links */
+a:visited {
+  color: black;
+}
+
+/* all links */
+a:link {
+  color: darkslategrey;
+}
